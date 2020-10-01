@@ -8,7 +8,7 @@ trigger: none
 resources:
  pipelines:
    - pipeline: MyCI
-     source: PetstoreCI
+     source: PetStoreCI
      trigger:
       branches:
        include:
