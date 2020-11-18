@@ -1,2 +1,2 @@
 # PetStore
-Adding home page
+Updating the home page
