@@ -1,4 +1,2 @@
 # PetStore
-Updating the home page
-
-Adding a new commit
+Updating the home page based on feedback
